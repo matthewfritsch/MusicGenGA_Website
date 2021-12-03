@@ -10,11 +10,8 @@ Welcome to Music Generator GA's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   install
+   setup
+   usage
+   faq
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
