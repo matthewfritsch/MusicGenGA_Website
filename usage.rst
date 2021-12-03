@@ -1,15 +1,24 @@
 Program Usage
 ===============================
 
+Theme
+-----------------------------
+
 Choosing a theme for the song
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To run the program, make sure to navigate into the directory that main.py is in, and then type: ‘python main.py’ this will then prompt you with some questions. The first is asking if you want the song in major or minor. A moodier song would most likely be made with the minor key, and a more upbeat happy song would be made in the major key. The next question will then ask you to pick from: “slow”, “medium”, “fast”, or a custom number. This influences how quickly notes will be played, in other words, the tempo of the song.
 
+Runtime
+-----------------------------
+
 What to do during runtime
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 During runtime, the AI will produce songs and spit out a single song that you can then input in either “yes” you do like it, or “no” you don’t like it. From that decision, the AI will regenerate songs and the process will continue until you hear a song that you are satisfied with.
+
+Getting it into FL Studio
+-----------------------------
 
 Exporting and importing into FL Studio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19,6 +28,9 @@ Once you are satisfied with the song produced, you can find it in the same place
 .. image:: Images/FileButton.png
   :width: 400
 
+Editing in FL Studio
+-----------------------------
+
 How to tweak in FL Studio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -26,6 +38,9 @@ To run the song you have in the FL studio, click the play button at the top near
 
 .. image:: Images/TrackButton.png
   :width: 400
+
+Getting it out of FL studio
+-----------------------------
 
 Exporting from FL Studio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
