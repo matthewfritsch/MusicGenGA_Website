@@ -7,7 +7,7 @@ Recommended Programs
 FL Studio or GarageBand
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-FL Studio is a program for Windows and MacOS for editing/developing music. The trial version is free and unlimited, but it does not save projects. Therefore, if you intend to use this trial to listen to + edit music, you need to start and complete your work in one sitting.
+FL Studio is a program for Windows and MacOS for editing/developing music. The trial version is free and unlimited, but it does not save projects (but can still export it). Therefore, if you intend to use this trial to listen to and/or edit music, you need to start and complete your work in one sitting.
 
 GarageBand is a similar program, but for MacOS only. This will work perfectly fine, though our guide on this website is aimed mostly at FL Studio, as it is cross-platform.
 
@@ -27,7 +27,7 @@ Music With A Particular Emotion
 
 Lots of music evokes a particular emotion from the listener. Some music is sad and slow, or fast and upbeat.  
 
-If you have a particular desired emotion for the song, then you may want to consider the settings used in the program. Songs in a minor key can often be scary, sad, or offputting in some way. 
+If you have a particular desired emotion for the song, then you may want to consider the settings used in the program. Songs in a minor key can often be scary, sad, or off putting in some way. 
 
 
 Music With A Particular Note or Chord
