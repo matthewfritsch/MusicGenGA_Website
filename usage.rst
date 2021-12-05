@@ -23,7 +23,7 @@ Getting it into FL Studio
 Exporting and importing into FL Studio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Once you are satisfied with the song produced, you can find it in the same place as the program as a .midi file. To import the song generated into FL studio, first open FL studio, then at the top left, select: File->import->MidiFile->find where the midi file was saved to. If you have no windows currently open in FL studio, then it may look like nothing has happened.
+Once you are satisfied with the song produced, you can find the midi file in the same folder as the program. To import the song generated into FL studio, first open FL studio, then at the top left, select: File->import->MidiFile->find where the midi file was saved to. If you have no windows currently open in FL studio, then it may look like nothing has happened.
 
 .. image:: Images/FileButton.PNG
   :width: 400
