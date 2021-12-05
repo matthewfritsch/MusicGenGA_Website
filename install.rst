@@ -13,7 +13,7 @@ You can also run this code in Python, and make edits if you would like.
 https://github.com/matthewfritsch/MusicGenGA
 
 
-How To Install
+**How To Install**
 -------------------------
 
 From Zip

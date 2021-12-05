@@ -1,7 +1,7 @@
 Frequently Asked Questions
 ==================================
 
-About Mid (midi) Files
+**About Mid (midi) Files**
 -----------------------------
 
 What Is a .mid File?
@@ -14,7 +14,7 @@ Why Not Use Another File Format For Music?
 
 Midi files are a really convenient way of programming music by using a built in Python library. On top of this, it's commonly seen by devices that make video game music. It is also common to see it being used by video game music producing devices and we wanted to replicate that effect.
 
-Song Specific Questions
+**Song Specific Questions**
 -----------------------------
 
 How Does The Program Work?
@@ -32,7 +32,7 @@ Why Do All Of The Music Files Play Piano Instead Of Other Instruments?
 
 The default instrument for midi files is piano, so to test other instruments, import the midi file into FL studio (or a similar software)
 
-Software Specific Questions
+**Software Specific Questions**
 -----------------------------
 
 Why Not Use a Different Program For Making Music?

@@ -1,7 +1,7 @@
 The Setup Process
 =============================
 
-Recommended Programs
+**Recommended Programs**
 -----------------------------
 
 FL Studio or GarageBand
@@ -19,7 +19,7 @@ Any MP3/WAV media player will work perfectly fine. If you're using Windows 10/11
 If you do not have one installed, VLC is an open-source media player that works perfectly for this scenario, as well as for visual media.
 
 
-How To Get A Particular Result
+**How To Get A Particular Result**
 ---------------------------------
 
 Music With A Particular Emotion
