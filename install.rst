@@ -1,7 +1,7 @@
 Installation Process
 =================================
 
-Where To Download
+**Where To Download**
 ---------------------------------
 
 The official download link is listed here:
