@@ -7,7 +7,7 @@ Recommended Programs
 FL Studio or GarageBand
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-FL Studio is a program for Windows and MacOS for editing/developing music. The trial version is free and unlimited, but it does not save projects (but can still export it). Therefore, if you intend to use this trial to listen to and/or edit music, you need to start and complete your work in one sitting.
+FL Studio is a program for Windows and MacOS for editing/developing music. The trial version is free and unlimited, but it does not save projects (although you can still export the project). Therefore, if you intend to use this trial to listen to and/or edit music, you need to start and complete your work in one sitting.
 
 GarageBand is a similar program, but for MacOS only. This will work perfectly fine, though our guide on this website is aimed mostly at FL Studio, as it is cross-platform.
 

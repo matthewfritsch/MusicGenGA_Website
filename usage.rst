@@ -7,7 +7,7 @@ Theme
 Choosing a theme for the song
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To run the program, make sure to navigate into the directory that main.py is in, and then type: ‘python main.py’ this will then prompt you with some questions. The first is asking if you want the song in major or minor. A moodier song would most likely be made with the minor key, and a more upbeat happy song would be made in the major key. The next question will then ask you to pick from: “slow”, “medium”, “fast”, or a custom number. This influences how quickly notes will be played, in other words, the tempo of the song.
+To run the program, make sure to navigate into the directory that main.py is in, and then type: ‘python main.py’ this will then prompt you with some questions. The first is asking if you want the song in major or minor (as these are the only keys that exist). A moodier song would most likely be made with the minor key, and a more upbeat happy song would be made in the major key. The next question will then ask you to pick from: “slow”, “medium”, “fast”, or a custom number. This influences how quickly notes will be played, in other words, the tempo of the song.
 
 Runtime
 -----------------------------
