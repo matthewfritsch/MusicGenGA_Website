@@ -6,7 +6,7 @@ Installation Process
 
 The official download link is listed here:
 
-https://github.com/matthewfritsch/MusicGenGA/releases/tag/1.0
+https://github.com/matthewfritsch/MusicGenGA/releases/tag/1.1
 
 You can also run this code in Python, and make edits if you would like.
 
